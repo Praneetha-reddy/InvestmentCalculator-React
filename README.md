@@ -1,9 +1,11 @@
 Pre-requisities to understand the project implementation.
+
 **Javascript concepts**
   1. Object destructuring
   2. Rest and spread operator
   3. Arrays
   4. Functions
+     
 **React Concepts**
   1. Conditional rendering
   2. useState hook
